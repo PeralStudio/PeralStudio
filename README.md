@@ -9,8 +9,8 @@
 <a href="https://github.com/AjayKhalsa">
   <img align="left" alt="Ajay's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://t.me/AjayKhalsa">
-  <img align="left" alt="Ajay's Telegram" width="22px" src="https://cdn.icon-icons.com/icons2/614/PNG/128/email-envelope-outline_icon-icons.com_56529.png" />
+<a href="mailto:info@peralstudio.com">
+  <img align="left" alt="Email Alberto" width="22px" src="https://cdn.icon-icons.com/icons2/614/PNG/128/email-envelope-outline_icon-icons.com_56529.png" />
 </a>
 <a href="https://www.hackerrank.com/ajaykhalsa_ak">
   <img align="left" alt="Ajay's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
