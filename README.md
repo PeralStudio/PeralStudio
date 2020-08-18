@@ -18,6 +18,7 @@
 <a href="https://www.kaggle.com/ajaykhalsa">
   <img align="left" alt="Ajay's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
 </a>
+<br>
 
 
 [![PeralStudio GitHub Stats](https://github-readme-stats.vercel.app/api?username=PeralStudio&show_icons=true)](https://github.com/PeralStudio)
