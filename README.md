@@ -12,6 +12,17 @@
 </a>
 <br /><br />
 
+![name](https://img.shields.io/badge/name-Alberto.Peral-blue)
+![age](https://img.shields.io/badge/age-34-black)
+![focus](https://img.shields.io/badge/focus-frontend-brightgreen)
+![living](https://img.shields.io/badge/living-Barcelona-3c9)
+![](https://img.shields.io/github/commit-activity/m/peralStudio/ejercicio-firebase)
+
+<br />
+
+
+
+
 
 [![PeralStudio GitHub Stats](https://github-readme-stats.vercel.app/api?username=PeralStudio&show_icons=true)](https://github.com/PeralStudio)
 
