@@ -1,8 +1,3 @@
-### Hi there 👋
-
-
-[![PeralStudio GitHub Stats](https://github-readme-stats.vercel.app/api?username=PeralStudio&show_icons=true)](https://github.com/PeralStudio)
-
 ## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 <a href="https://twitter.com/ajaykhalsa_ak">
@@ -23,6 +18,11 @@
 <a href="https://www.kaggle.com/ajaykhalsa">
   <img align="left" alt="Ajay's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
 </a>
+
+
+[![PeralStudio GitHub Stats](https://github-readme-stats.vercel.app/api?username=PeralStudio&show_icons=true)](https://github.com/PeralStudio)
+
+
 
 <!--
 **PeralStudio/PeralStudio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
