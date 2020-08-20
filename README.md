@@ -20,9 +20,6 @@
 <a href="https://www.peralstudio.com">
   <img align="left" alt="PeralStudios Web" width="22px" src="https://cdn.icon-icons.com/icons2/692/PNG/512/seo-social-web-network-internet_174_icon-icons.com_61537.png" />
 </a>
-<a href="https://github.com/PeralStudio">
-  <img align="left" alt="PeralStudio Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
 <a href="mailto:info@peralstudio.com">
   <img align="left" alt="Email Alberto" width="22px" src="https://cdn.icon-icons.com/icons2/614/PNG/128/email-envelope-outline_icon-icons.com_56529.png" />
 </a>
