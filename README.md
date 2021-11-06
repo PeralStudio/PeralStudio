@@ -6,7 +6,6 @@
 ![name](https://img.shields.io/badge/name-Alberto.Peral-blue)
 ![focus](https://img.shields.io/badge/focus-frontend&Backend-brightgreen)
 ![living](https://img.shields.io/badge/living-Barcelona-3c9)
-<!--![](https://img.shields.io/github/commit-activity/m/peralStudio/ejercicio-firebase)-->
 
 ![PeralStudio GitHub Stats](https://github-readme-stats.vercel.app/api?username=PeralStudio&show_icons=true&theme=tokyonight)
 
