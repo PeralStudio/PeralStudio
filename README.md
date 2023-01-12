@@ -7,7 +7,7 @@
 ![focus](https://img.shields.io/badge/focus-frontend&Backend-brightgreen)
 ![living](https://img.shields.io/badge/living-Barcelona-3c9)
 
-![PeralStudio GitHub Stats](https://github-readme-stats.vercel.app/api?username=PeralStudio&show_icons=true&theme=tokyonight)
+![PeralStudio GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=PeralStudio&show_icons=true&theme=tokyonight)
 
 
 ## ⚡ Technologies
