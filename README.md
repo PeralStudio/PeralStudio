@@ -52,10 +52,8 @@
 ## 📊 Statistics
 
 <p align="left">
-  <a href="https://peralstudio.com/">
-    <img width="49.5%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=PeralStudio&show_icons=true&theme=tokyonight">
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=peralstudio&theme=radical&hide_border=true">		  
-  </a>
+    <img width="49.5%" height="18%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=PeralStudio&show_icons=true&theme=radical&hide_border=true">
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=peralstudio&theme=radical&hide_border=true">
 </p>
 
 ## 📈 Graph
