@@ -1,4 +1,3 @@
-<!-- ## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2> -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Alberto.;I+love+develop.;I+love+JavaScript.;I+love+React.;I+love+React+Native.;I+love+Nodejs.;&center=true&width=500&height=50"></a>
 </p>
@@ -28,23 +27,27 @@
 
 ## ⚡ Technologies
 
-<br>
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![React](https://img.shields.io/badge/React_Native-black?style=flat?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=Angular)
-![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat?style=for-the-badge&logo=typescript&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
-![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-
-<br>
+<p>
+<div align="center">
+  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript">
+  <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react">
+  <img src="https://img.shields.io/badge/React_Native-black?style=flat?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/-Angular-black?style=flat-square&logo=Angular">
+  <img src="https://img.shields.io/badge/TypeScript-black?style=flat?style=for-the-badge&logo=typescript&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white">
+	
+  <br>
+  <br>
+	
+  <img src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3">
+  <img src="https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap">
+  <img src="https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase">
+  <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js">
+  <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git">
+  <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github">
+  <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb">
+</div>
+</p>
 
 ## 📊 Statistics
 
@@ -59,4 +62,6 @@
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=peralstudio&theme=react-dark)
 
+  <br>
+  
 <p align="center"><img src="https://profile-counter.glitch.me/{peralstudio}/count.svg"></p>
