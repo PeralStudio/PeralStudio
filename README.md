@@ -14,13 +14,13 @@
 <p>
 <div align="center">
 	<a href="https://discord.com/users/209338137346834433" rel="nofollow">
-	 	<img alt="Alberto Peral's Discord" width="26px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" style="max-width: 100%;">
+	 	<img alt="Alberto Peral's Discord" width="26px" src="https://skillicons.dev/icons?i=discord" >
 	</a>
 	<a href="https://www.peralstudio.com/" rel="nofollow">
   		<img alt="Alberto Peral's Website" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Blue_globe_icon.svg/469px-Blue_globe_icon.svg.png" style="max-width: 100%;">
 	</a>
 	<a href="https://www.linkedin.com/in/alberto-peral/" rel="nofollow">
-  		<img alt="Alberto Peral's LinkedIn" width="26px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="max-width: 100%;">
+  		<img alt="Alberto Peral's LinkedIn" width="26px" src="https://skillicons.dev/icons?i=linkedin" style="max-width: 100%;">
 	</a>
 </div>
 </p>
