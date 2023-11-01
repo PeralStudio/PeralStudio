@@ -1,4 +1,4 @@
-![alt text](./images/top1.png)
+<img src=./images/wave-top.png width="1980px" height="360px">
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Alberto.;I+love+to+develop.;I+love+JavaScript.;I+love+React.;I+love+React+Native.;I+love+Nodejs.;&center=true&width=500&height=50">
   <img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
@@ -70,4 +70,4 @@
   
 <p align="center"><img src="https://profile-counter.glitch.me/{peralstudio}/count.svg"></p>
 
-![alt text](./images/bottom.svg)
+<img src=./images/wave-bottom.png width="1980px" height="360px">
