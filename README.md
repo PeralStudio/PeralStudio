@@ -38,6 +38,7 @@
   <img src="https://img.shields.io/badge/-Angular-black?style=flat-square&logo=Angular">
   <img src="https://img.shields.io/badge/TypeScript-black?style=flat?style=for-the-badge&logo=typescript&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/-ExpressJS-black?style=flat-square&logo=express&logoColor=white">
 	
   <br>
   <br>
