@@ -62,6 +62,8 @@
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=peralstudio&theme=radical&hide_border=true">
 </p>
 
+## Trophy
+![trophy](https://github-profile-trophy.vercel.app/?username=Peralstudio&theme=dracula)
 <!-- ## 📈 Graph
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=peralstudio&bg_color=0d1117&color=82274b&line=575661&point=fe418e&area=true&hide_border=true)
