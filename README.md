@@ -63,7 +63,12 @@
 </p>
 
 ## Trophy
-![trophy](https://github-profile-trophy.vercel.app/?username=Peralstudio&theme=dracula)
+<div align="center">
+	
+![trophy](https://github-profile-trophy.vercel.app/?username=Peralstudio&theme=dracula&no-frame=true&row=1&column=-1)
+
+</div>
+
 <!-- ## 📈 Graph
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=peralstudio&bg_color=0d1117&color=82274b&line=575661&point=fe418e&area=true&hide_border=true)
