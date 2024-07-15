@@ -65,7 +65,7 @@
 ## Trophy
 <div align="center">
 	
-![trophy](https://github-profile-trophy.vercel.app/?username=Peralstudio&theme=dracula&no-frame=true&row=1&column=-1)
+![trophy](https://github-profile-trophy.vercel.app/?username=Peralstudio&theme=dracula&no-frame=true&row=1&column=-1&margin-w=10&margin-h=10)
 
 </div>
 
