@@ -21,7 +21,7 @@
 	 	<img alt="Alberto Peral's Discord" width="26px" src="https://skillicons.dev/icons?i=discord" >
 	</a>
 	<a href="https://www.peralstudio.com/" rel="nofollow">
-  		<img alt="Alberto Peral's Website" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Blue_globe_icon.svg/469px-Blue_globe_icon.svg.png" style="max-width: 100%;">
+  		<img alt="Alberto Peral's Website" width="26px" src="https://www.citypng.com/public/uploads/preview/internet-globe-white-icon-download-png-701751695035232hl9o86sngl.png" style="max-width: 100%;">
 	</a>
 	<a href="https://www.linkedin.com/in/alberto-peral/" rel="nofollow">
   		<img alt="Alberto Peral's LinkedIn" width="26px" src="https://skillicons.dev/icons?i=linkedin" style="max-width: 100%;">
@@ -29,55 +29,58 @@
 </div>
 </p>
 
-## ⚡ Technologies
 
 # 🛠 Tech Stack
 
 ### 👨‍💻 Languages
-<p align="center">
+<span align="center">
 <img src="https://skillicons.dev/icons?i=js,ts,html,css" />
-</p>
+</span>
 
 ### ⚛️ Frontend
-<p align="center">
+<span align="center">
 <img src="https://skillicons.dev/icons?i=react,angular,tailwind" />
-</p>
+</span>
 
 ### 📱 Mobile
-<p align="center">
+<span align="center">
 <img src="https://skillicons.dev/icons?i=react" />
-</p>
+</span>
 
 ### 🧠 Backend
-<p align="center">
+<span align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,express,firebase" />
-</p>
+</span>
 
 ### 🗄 Database
-<p align="center">
+<span align="center">
 <img src="https://skillicons.dev/icons?i=mongodb,supabase" />
-</p>
+</span>
 
 ### ⚙️ Tools
-<p align="center">
+<span align="center">
 <img src="https://skillicons.dev/icons?i=git,github,discord" />
-</p>
+</span>
 
 ---
 
 ## 📊 Statistics
 
 <p align="left">
-    <img width="49.5%" height="18%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=PeralStudio&show_icons=true&theme=radical&hide_border=true">
+    <img width="49.5%" height="18%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=PeralStudio&show_icons=true&theme=radical">
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=peralstudio&theme=radical&hide_border=true">
 </p>
 
+---
+
 ## Trophy
 <div align="center">
-	
-![trophy](https://github-profile-trophy.vercel.app/?username=Peralstudio&theme=dracula&no-frame=true&row=1&column=-1&margin-w=10&margin-h=10)
+
+![trophy](https://github-trophies.vercel.app/?username=peralstudio&theme=onedark)
 
 </div>
+
+---
 
 <!-- ## 📈 Graph
 
@@ -85,6 +88,6 @@
 
   <br> -->
   
-<p align="center"><img src="https://profile-counter.glitch.me/{peralstudio}/count.svg"></p>
+<!-- <p align="center"><img src="https://profile-counter.glitch.me/{peralstudio}/count.svg"></p> -->
 
 ![alt text](./images/bottom.svg)
