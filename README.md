@@ -31,29 +31,39 @@
 
 ## ⚡ Technologies
 
-<p>
-<div align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript">
-  <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react">
-  <img src="https://img.shields.io/badge/React_Native-black?style=flat?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/-Angular-black?style=flat-square&logo=Angular">
-  <img src="https://img.shields.io/badge/TypeScript-black?style=flat?style=for-the-badge&logo=typescript&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/-ExpressJS-black?style=flat-square&logo=express&logoColor=white">
-	
-  <br>
-  <br>
-	
-  <img src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3">
-  <img src="https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap">
-  <img src="https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase">
-  <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js">
-  <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git">
-  <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github">
-  <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb">
-  <img src="https://img.shields.io/badge/-discordjs-black?style=flat-square&logo=discord">
-</div>
+# 🛠 Tech Stack
+
+### 👨‍💻 Languages
+<p align="center">
+<img src="https://skillicons.dev/icons?i=js,ts,html,css" />
 </p>
+
+### ⚛️ Frontend
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,angular,tailwind" />
+</p>
+
+### 📱 Mobile
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react" />
+</p>
+
+### 🧠 Backend
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,firebase" />
+</p>
+
+### 🗄 Database
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mongodb,supabase" />
+</p>
+
+### ⚙️ Tools
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,discord" />
+</p>
+
+---
 
 ## 📊 Statistics
 
